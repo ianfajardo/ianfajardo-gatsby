@@ -15,7 +15,7 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "dotenv": "^8.1.0",
-    "gatsby": "^2.13.51",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-sass": "^2.1.8",
     "gatsby-source-contentful": "^2.1.27",
     "node-sass": "^4.12.0",
